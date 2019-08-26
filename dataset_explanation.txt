@@ -1,0 +1,17 @@
+email : l'email du professeur qui fait la commande de devis
+ETABLISSEMENT: l'établissemnt du professeur qui fait la commande de devis
+CPETAB: le code postal de l'établissement 
+VILLEETAB: la ville de l'établissement
+ACADEMIE: l'academie d'appartenance de l'établissement
+NUMERODEVIS: LE NUMERO DU DEVIS
+PAYS: le pays de destination pour le voyage 
+DESTINATION: la ville de destination du voyage
+ETATSCENARIO:  l'état actuel du scenario de la commande faite par le prof
+montantTotal: le montant du voyage en euro
+reduction: le type de reduction accordée au devis
+kilometrageAllerRetourTotalAutocarRetenu: le nombre de kilometrage aller retour du voyage effectué
+typeTransport: le type de transport utilisé pour le voyage
+ETATDEVIS: l'état actuel du devis fait par le prof c'est-à-dire on determine si le devis est déja traité ou pas
+Appartenance: le devis est commercial pour la première fois que le prof commande un devis et si le devis est personnel alors le prof commande pour une n-ième fois un devis 
+STATUTDEVIS: correspond au statut final du devis commandé
+
